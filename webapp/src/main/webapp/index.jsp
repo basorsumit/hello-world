@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
 <<<<<<< HEAD
-    <h1>Registeration Form</h1>
+    <h1>New Registeration Form</h1>
 =======
     <h1>New user Register</h1>
 >>>>>>> b707d0db1a93099796569dda8bede29b0e74ae0e
